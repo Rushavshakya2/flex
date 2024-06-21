@@ -1,0 +1,22 @@
+
+*{
+    margin : 0;
+    padding: 0;
+
+
+}
+.flex-container{
+    border: 5px solid blue;
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.box{
+    height: 200px;
+    border: 10px solid darkred;
+    width: 200px;
+    margin: 30px;
+    display: flex;
+    fill: black;
+}
